@@ -1,3 +1,3 @@
-A collection of Ruby applications from Peter Cooper's 'Beginning Ruby' second edition.  Rub analyzer.rb from the shell
+A collection of Ruby applications from Peter Cooper's 'Beginning Ruby' second edition.  Run analyzer.rb from the shell
 with 'ruby analyzer.rb oliver.txt' The txt file was hard coded into the program at first but now the user can call
 any other so long as it is saved into the TextAnalyzer folder and called as an argument.
